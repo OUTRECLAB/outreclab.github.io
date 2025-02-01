@@ -1,1 +1,1 @@
-# outreclab.github.io
+# OUTREC Lab
