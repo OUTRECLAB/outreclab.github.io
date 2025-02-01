@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Outrec Lab - UiTM Sarawak</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+    <!-- Navigation -->
+    <header>
+        <nav>
+            <div class="logo">Outrec Lab</div>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="facilities.html">Facilities</a></li>
+                <li><a href="programs.html">Programs</a></li>
+                <li><a href="research.html">Research</a></li>
+                <li><a href="news.html">News</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <h1>Explore the Great Outdoors with Outrec Lab</h1>
+        <p>Experience adventure, research, and education in a world-class outdoor facility.</p>
+        <a href="programs.html" class="btn">Discover Our Programs</a>
+    </section>
+
+    <!-- Sections -->
+    <section class="features">
+        <div class="feature">
+            <h2>Our Facilities</h2>
+            <p>State-of-the-art equipment and research areas for outdoor activities.</p>
+        </div>
+        <div class="feature">
+            <h2>Programs & Activities</h2>
+            <p>Workshops, training sessions, and adventures tailored for students.</p>
+        </div>
+        <div class="feature">
+            <h2>Research & Innovation</h2>
+            <p>Explore our latest outdoor research and academic publications.</p>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>© 2025 Outrec Lab - UiTM Sarawak | All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
